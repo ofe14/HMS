@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    color:rgb(35, 31, 31);
+    background-color: white;
+}
+table
+{
+    background-color: white;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+th
+{
+    border: 2px solid rgb(172, 161, 161);
+    padding: 3px;
+    color: #a2283c;
+    font-weight: 1000;
+}
+td{
+    border: 2px solid rgb(178, 163, 163);
+    font-weight: 1000;
+    padding: 3px;
+}
+button
+{
+    padding: none;
+    color: rgb(37, 34, 34);
+    height: 31px;
+    width:100px;
+}
+input[type="text"]{
+	width: 400px;
+	border-radius: 5px;
+	border: 1.3px solid #575759;
+	padding: 10px;
+	outline: none;
+}

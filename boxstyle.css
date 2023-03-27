@@ -1,0 +1,156 @@
+body
+{
+    background-color: #000000;
+}
+.prof
+{
+    width: 250px;
+}
+.menu-button {
+    font-size: 25px;
+    color: #fff;
+    padding: 12px 19px;
+    text-align: center;
+    display: flex;
+    height: 46px;
+    width: 100%;
+}
+p
+{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.logo2
+{
+    display: inline-block;
+}
+#sidebar-nav {
+    margin-left:0px;
+    width: 250px;
+    height: 700px;
+    padding: 0;
+    background-color: rgb(58, 58, 58);
+}
+img
+{
+    height: 100%;
+    width: 100%;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.white-label {
+    width: 100%;
+    padding: 10px;
+    min-height: 44px;
+    background-color: #0274BD;
+    height: 50px;
+}
+div.user-image {
+    padding: 9px 5px;
+    margin: 0 5px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.nav-profile {
+    background-color:rgba(0, 0, 0, 0.4);
+}
+.nav-profile-image img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    float: left;
+}
+.nav-profile-name {
+    float: right;
+    margin:7px 8px;
+    color: #fff;
+}
+.nav-profile-name i {
+    padding: 0 0 0 11px;
+}
+.content-header
+{
+    display: flex;
+    background-color: #070808;
+    width: 100%;
+}
+.body
+{
+    display: flex;
+    background-color:rgba(0,0,0,0.4);
+}
+.content
+{
+    font-size: 20px;
+    color:white;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}
+.side-list
+{
+    padding-top: 10px;
+    height: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+.side-list:hover
+{
+    background-color: rgb(243, 236, 236);
+    color: black;
+}
+.button1
+{
+    line-height: 190px;
+    text-align: center;
+    margin: 40px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.button1:hover
+{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    box-shadow: #0274BD;
+
+}
+#header
+{
+    width: 100%;
+}
+.background-clip
+{
+    position: absolute;
+    z-index: -1;
+}
+h6
+{
+    margin-bottom: 0px;
+}
+p
+{
+    width: 200px;
+    margin-bottom: 0px;
+    background-color: #000000;
+}
+.caption
+{
+    padding: 10px;
+    width: 900px;
+    height: 400px;
+}
+.caption2
+{
+    width: 600px;
+}
+.caphead
+{
+    color: white;
+    display: flex;
+    width: 900px;
+}
